@@ -1,1 +1,1 @@
-# odin-recipes
+I will be building an HTML document for a recipes webpage as an assignment for The Odin Project.
